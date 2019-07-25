@@ -1,4 +1,4 @@
-# Cristo-Rey-Richmond-Website
+# Cristo-Rey-Richmond-High-School-Website
 Cristo Rey Richmond Website Wireframe
 
 Goal was to make the website more navigable and visual so that different audiences can find and understand relevant information easily.
